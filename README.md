@@ -1,10 +1,10 @@
 [![@carlcastanas](https://raw.githubusercontent.com/carlcastanas/carlcastanas/main/assets/1.gif)](https://facebook.com/carlcastanas)
 ------------------------------------------- 
 ### Socials: 
-<a href="https://m.youtube.com/carlcastanas"><img src="https://img.shields.io/badge/carlcastanas-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://instagram.com/carlcastanas"><img src="https://img.shields.io/badge/carlcastanas-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://m.youtube.com/https://www.youtube.com/channel/UCsuT6t54vd4cWoaB0ByFE9g"><img src="https://img.shields.io/badge/Codeguest-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://instagram.com/jc.mdizon"><img src="https://img.shields.io/badge/jc.mdizon-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/john-carlo-dizon-80a03b294/"><img src="https://img.shields.io/badge/John Carlo Dizon-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/John.Dizon.30/"><img src="https://img.shields.io/badge/John Carlo Dizon-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <br>
 ### How to reach me: 
-<a href="mailto: cacastanas@gmail.com">
+<a href="mailto: dizon6171@gmail.com">
 <img src="https://img.shields.io/badge/-cacastanas%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
 
 ### My Startup Tech Community:
