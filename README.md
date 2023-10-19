@@ -5,22 +5,16 @@
 <a href="https://www.tiktok.com/@codeguest"><img src="https://img.shields.io/badge/Codeguest-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 <a href="https://instagram.com/jc.mdizon"><img src="https://img.shields.io/badge/jc.mdizon-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/john-carlo-dizon-80a03b294/"><img src="https://img.shields.io/badge/John Carlo Dizon-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/John.Dizon.30/"><img src="https://img.shields.io/badge/John Carlo Dizon-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <br>
+
 ### How to reach me: 
 <a href="mailto: dizon6171@gmail.com">
 <img src="https://img.shields.io/badge/-dizon6171%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
 
-### My Startup Tech Community:
+### Current Status
 
-[![Community](https://discordapp.com/api/guilds/890526319790669895/widget.png?style=banner2)](https://discord.gg/ZYfWTSusXG) 
-
-### Icreatechs:
-<a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/carlcastanas/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://instagram.com/carlcastanas"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://m.youtube.com/carlcastanas"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
-
-### Current Status Quo:
-
-- 💼 Software Engineer
-- 🔍 I’m looking for connections in <strong>Web Development and Cyber Security</strong> Industry.
-- 💬 Feel free to discuss with me about <strong>Web Development</strong>, <strong>Cyber Security</strong>, and <strong>NFT Projects</strong>.
+- 💼 Current 2nd Year College BSIT Student at Univerasity of The Assumption
+- 🔍 I’m looking for Connections in <strong>Web Development</strong> and <strong>Software Engineering</strong> Industry.
+- 💬 Feel free to discuss with me about <strong>Front End</strong> and <strong>Back End</strong> Projects.
 
 ------------------------------------------- 
 
