@@ -1,6 +1,4 @@
-[![@carlcastanas](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://facebook.com/John.Dizon.30/)
-[![@carlcastanas](https://www.figma.com/proto/HyAiZvVz7ARzKb2NLVM9oe/Github-banner?type=design&node-id=16-747&t=pXA7TccS3ik65Tgb-0&scaling=min-zoom&page-id=0%3A1)](https://facebook.com/John.Dizon.30/)
-
+[![@jcdizon](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://facebook.com/John.Dizon.30/)
 ------------------------------------------- 
 ### Socials: 
 <a href="https://www.youtube.com/channel/UCsuT6t54vd4cWoaB0ByFE9g"><img src="https://img.shields.io/badge/Codeguest-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
