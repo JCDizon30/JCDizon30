@@ -1,5 +1,4 @@
-
-![Github banner](https://github.com/JCDizon30/JCDizon30/assets/114081317/fcc5648c-a2d4-43ab-a61a-2a2e4faf53b2)
+[![@jcdizon](https://github.com/JCDizon30/JCDizon30/assets/114081317/fcc5648c-a2d4-43ab-a61a-2a2e4faf53b2)](https://facebook.com/John.Dizon.30/)
 ------------------------------------------- 
 ### Socials: 
 <a href="https://www.youtube.com/channel/UCsuT6t54vd4cWoaB0ByFE9g"><img src="https://img.shields.io/badge/Codeguest-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
