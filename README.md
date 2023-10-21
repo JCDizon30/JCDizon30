@@ -1,4 +1,4 @@
-[![@jcdizon](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://facebook.com/John.Dizon.30/)
+
 ![Github banner](https://github.com/JCDizon30/JCDizon30/assets/114081317/fcc5648c-a2d4-43ab-a61a-2a2e4faf53b2)
 ------------------------------------------- 
 ### Socials: 
