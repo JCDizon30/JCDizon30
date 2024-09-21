@@ -12,7 +12,7 @@
 
 ### Current Status:
 
-- 💼 Current 2nd Year College BSIT Student at Univerasity of The Assumption
+- 💼 Current 3rd Year College BSIT Student at Univerasity of The Assumption
 - 🔍 I’m looking for Connections in <strong>Web Development</strong> and <strong>Software Engineering</strong> Industry.
 - 💬 Feel free to discuss with me about <strong>Front End</strong> and <strong>Back End</strong> Projects.
 
